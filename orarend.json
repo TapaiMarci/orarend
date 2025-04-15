@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "day": "Hétfő",
+    "hour": 1,
+    "subject": "Matematika"
+  },
+  {
+    "id": 5,
+    "day": "Hétfő",
+    "hour": 5,
+    "subject": "Testnevelés"
+  },
+  {
+    "id": 14,
+    "day": "Szerda",
+    "hour": 4,
+    "subject": "Fizika"
+  },
+  {
+    "id": 19,
+    "day": "Csütörtök",
+    "hour": 4,
+    "subject": "Földrajz"
+  },
+  {
+    "id": 21,
+    "day": "Péntek",
+    "hour": 1,
+    "subject": "Matematika"
+  },
+  {
+    "id": 26,
+    "day": "Hétfő",
+    "hour": "6",
+    "subject": "Rajz"
+  },
+  {
+    "id": 27,
+    "day": "Hétfő",
+    "hour": "6",
+    "subject": "Rajz"
+  },
+  {
+    "id": 28,
+    "day": "Hétfő",
+    "hour": "6",
+    "subject": "Rajz"
+  },
+  {
+    "id": 29,
+    "day": "Hétfő",
+    "hour": 6,
+    "subject": "Rajz"
+  },
+  {
+    "id": 30,
+    "day": "Szerda",
+    "hour": 1,
+    "subject": "Matematika"
+  },
+  {
+    "id": 31,
+    "day": "Szerda",
+    "hour": 3,
+    "subject": "Rajz"
+  },
+  {
+    "id": 32,
+    "day": "Csütörtök",
+    "hour": 1,
+    "subject": "Informatika"
+  },
+  {
+    "id": 33,
+    "day": "Csütörtök",
+    "hour": 2,
+    "subject": "Kémia"
+  },
+  {
+    "id": 34,
+    "day": "Péntek",
+    "hour": 2,
+    "subject": "Biológia"
+  }
+]
